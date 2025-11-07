@@ -41,7 +41,7 @@ I love mentoring and sharing practical debugging, design, and version control wo
 ----------------
 - Email: [rithvikdhanpal@gmail.com](mailto:rithvikdhanpal@gmail.com)
 - LinkedIn: [linkedin.com/in/dhanpal-rithvik](https://www.linkedin.com/in/dhanpal-rithvik/)
-- Portfolio: [portfolio-flame-iota.vercel.app](https://portfolio-flame-iota.vercel.app)
+- Portfolio: [portfolio-flame-iota.vercel.app](https://portfoilo-flame-iota.vercel.app)
 
 Thanks for stopping by—feel free to reach out if you want to collaborate or talk tech!
 
